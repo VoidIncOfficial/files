@@ -1012,7 +1012,7 @@
         {
             "name": "CraftTweaker Zen Script",
             "path": "scripts/crafttweaker.zs",
-            "hash": "863021e04b49f99063bc4f9a24cb1352b5487383",
+            "hash": "39b8933299eb3c0ab33552501544a3e8ab8ef315",
             "url": "https://raw.githubusercontent.com/VoidIncOfficial/files/main/recipes.zs"
         }
     ],
