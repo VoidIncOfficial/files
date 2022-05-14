@@ -21,8 +21,8 @@ recipes.remove(<bewitchment:scorned_brick_leonard_statue>);
 recipes.remove(<bewitchment:nether_brick_leonard_statue>);
 recipes.remove(<bewitchment:stone_leonard_statue>);
 recipes.remove(<extrabotany:lens:2>);
-recipes.removeShaped(<botania:terrasword>, [[null, <botania:manaresource:4>, null],[null, <botania:manaresource:4>, null], [null, <botania:manaresource:3>, null]]);
-recipes.removeShaped(<bewitchment:poppet>, [[<minecraft:leather>, <bewitchment:spanish_moss>, <minecraft:leather>],[<bewitchment:bone_needle>, <bewitchment:spanish_moss>, <bewitchment:pure_filament>], [<minecraft:leather>, <bewitchment:diabolical_vein>, <minecraft:leather>]]);
+recipes.remove(<botania:terrasword>);
+recipes.remove(<bewitchment:poppet>);
 
 recipes.addShaped(<bewitchment:poppet>, [[<minecraft:leather>, <bewitchment:spanish_moss>, <minecraft:leather>],[<bewitchment:bone_needle>, <bewitchment:spanish_moss>, <bewitchment:pure_filament>], [<minecraft:leather>, <bewitchment:diabolical_vein>, <minecraft:leather>]]);
 recipes.addShaped(<extrabotany:lens>, [[null, <minecraft:piston>, null],[<botania:manaresource>, <botania:managlass>, <botania:manaresource>], [<botania:manaresource>, <botania:manaresource:2>, <botania:manaresource>]]);
@@ -52,4 +52,3 @@ recipes.addShaped(<ic2:bronze_helmet>, [[<ic2:ingot:1>, <ic2:ingot:1>, <ic2:ingo
 recipes.addShaped(<botania:terrasword>, [[null, <botania:manaresource:4>, null],[<botania:manaresource>, <botania:manaresource:4>, <botania:manaresource>], [null, <botania:manaresource:3>, null]]);
 recipes.addShaped(<extrabotany:manasteelhammer>, [[<botania:manaresource>, <botania:manaresource>, <botania:manaresource>],[<botania:manaresource>, <botania:manaresource:3>, <botania:manaresource>], [null, <botania:manaresource:3>, null]]);
 recipes.addShaped(<extrabotany:flyingboat>, [[<twilightforest:magic_map_focus>, <botania:manaresource:8>, <twilightforest:magic_map_focus>],[<botania:manaresource>, <minecraft:dragon_breath>, <botania:manaresource>], [<botania:manaresource>, <botania:manaresource>, <botania:manaresource>]]);
-
