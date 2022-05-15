@@ -1006,6 +1006,16 @@
             "name": "CustomNPCs.jar",
             "hash": "a5469076df8b1d9db4e483131dc94e270b8bc7cd",
             "url": "https://edge.forgecdn.net/files/2996/912/CustomNPCs_1.12.2-(05Jul20).jar"
+        },
+        {
+            "name": "OptiFine.jar",
+            "hash": "ca3aea3a09ce215906c346fe190907fe0347b0c4",
+            "url": "https://cdn.discordapp.com/attachments/807727887070527508/975341384892551188/OptiFine_1.12.2_HD_U_G5.jar"
+        },
+        {
+            "name": "BetterFPS.jar",
+            "hash": "245235d5c67daff00ee658ee1f88ae8c3e4584b8",
+            "url": "https://edge.forgecdn.net/files/2483/393/BetterFps-1.4.8.jar"
         }
     ],
     "miscFiles": [
