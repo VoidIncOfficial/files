@@ -1,0 +1,11 @@
+{
+    "version": "1.0",
+    "versionCodename": "laberet",
+    "news": [
+        {
+            "title": "Ура! Новости!",
+            "description": "Не факт, что хорошие, но они есть.",
+            "link": "https://example.com"
+        }
+    ]
+}
