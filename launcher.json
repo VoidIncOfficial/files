@@ -3,6 +3,11 @@
     "versionCodename": "laberet",
     "news": [
         {
+            "title": "А вы знали...",
+            "description": "...что у Юры есть свой сайт с анимешками без рекламы? Тыкай на ссылку справа и затести этот треш!",
+            "link": "https://anime1337.herokuapp.com"
+        },
+        {
             "title": "Ура! Новости!",
             "description": "Не факт, что хорошие, но они есть.",
             "link": "https://example.com"
