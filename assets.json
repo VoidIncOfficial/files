@@ -1008,21 +1008,41 @@
             "url": "https://edge.forgecdn.net/files/2996/912/CustomNPCs_1.12.2-(05Jul20).jar"
         },
         {
-            "name": "OptiFine.jar",
-            "hash": "ca3aea3a09ce215906c346fe190907fe0347b0c4",
-            "url": "https://cdn.discordapp.com/attachments/807727887070527508/975341384892551188/OptiFine_1.12.2_HD_U_G5.jar"
+            "name": "Forestry.jar",
+            "hash": "3e1ee23afc96693743652b11e04fee401a1d6f19",
+            "url": "https://edge.forgecdn.net/files/2684/780/forestry_1.12.2-5.8.2.387.jar"
         },
         {
-            "name": "BetterFPS.jar",
-            "hash": "245235d5c67daff00ee658ee1f88ae8c3e4584b8",
-            "url": "https://edge.forgecdn.net/files/2483/393/BetterFps-1.4.8.jar"
+            "name": "BuildCraft.jar",
+            "hash": "46c7bcb2c81f4786a84f951e7204277c967deb96",
+            "url": "https://edge.forgecdn.net/files/3204/475/buildcraft-all-7.99.24.8.jar"
+        },
+        {
+            "name": "Applied Energistics 2.jar",
+            "hash": "e5c3c11eafc5daf73652a2dabe855e3759caa8b5",
+            "url": "https://edge.forgecdn.net/files/2747/63/appliedenergistics2-rv6-stable-7.jar"
+        },
+        {
+            "name": "Tinkers Tool Leveling.jar",
+            "hash": "69705dd5de7c9cd54f6fdb8198b959f93b7d1400",
+            "url": "https://edge.forgecdn.net/files/2630/860/TinkerToolLeveling-1.12.2-1.1.0.jar"
+        },
+        {
+            "name": "Constructs Armory.jar",
+            "hash": "373e8f6f56605d7eacb5d7d2f4e1ffea5e6d844b",
+            "url": "https://edge.forgecdn.net/files/3174/535/conarm-1.12.2-1.2.5.10.jar"
+        },
+        {
+            "name": "Blood Arsenal.jar",
+            "hash": "b8b6696fa7b825349ff333ea30046078150e6ef9",
+            "url": "https://edge.forgecdn.net/files/2904/183/BloodArsenal-1.12.2-2.2.2-31.jar"
         }
     ],
     "miscFiles": [
         {
             "name": "CraftTweaker Zen Script",
             "path": "scripts/crafttweaker.zs",
-            "hash": "39b8933299eb3c0ab33552501544a3e8ab8ef315",
+            "hash": "863021e04b49f99063bc4f9a24cb1352b5487383",
             "url": "https://raw.githubusercontent.com/VoidIncOfficial/files/main/recipes.zs"
         }
     ],
