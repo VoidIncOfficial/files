@@ -1036,11 +1036,16 @@
             "name": "Blood Arsenal.jar",
             "hash": "b8b6696fa7b825349ff333ea30046078150e6ef9",
             "url": "https://edge.forgecdn.net/files/2904/183/BloodArsenal-1.12.2-2.2.2-31.jar"
+        },
+        {
+            "name": "Custom Disc.jar",
+            "hash": "a3185d5baf14640932a59eaeca347e131ef31822",
+            "url": "https://edge.forgecdn.net/files/2731/152/customdisc-1.3.jar"
         }
     ],
     "miscFiles": [
         {
-            "name": "CraftTweaker Zen Script",
+            "name": "CraftTweaker ZenScript",
             "path": "scripts/crafttweaker.zs",
             "hash": "863021e04b49f99063bc4f9a24cb1352b5487383",
             "url": "https://raw.githubusercontent.com/VoidIncOfficial/files/main/recipes.zs"
