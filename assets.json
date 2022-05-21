@@ -1049,7 +1049,13 @@
             "path": "scripts/crafttweaker.zs",
             "hash": "863021e04b49f99063bc4f9a24cb1352b5487383",
             "url": "https://raw.githubusercontent.com/VoidIncOfficial/files/main/recipes.zs"
-        }
+        },
+        {
+            "name": "Custom Disc Configuration",
+            "path": "config/custom_disc.cfg",
+            "hash": "da9d31681071671bfcac1d8d9b2a818adeb45415",
+            "url": "https://raw.githubusercontent.com/VoidIncOfficial/files/main/custom_disc.cfg"
+        },
     ],
     "logging": {},
     "mainClass": "net.minecraft.launchwrapper.Launch",
