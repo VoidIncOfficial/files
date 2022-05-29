@@ -1041,6 +1041,26 @@
             "name": "Custom Disc.jar",
             "hash": "a3185d5baf14640932a59eaeca347e131ef31822",
             "url": "https://edge.forgecdn.net/files/2731/152/customdisc-1.3.jar"
+        },
+        {
+            "name": "Wizardry.jar",
+            "hash": "2e20adcf46ee84e002140eb197157799c8bc4bb1",
+            "url": "https://edge.forgecdn.net/files/3757/344/ElectroblobsWizardry-4.3.7-MC1.12.2.jar"
+        },
+        {
+            "name": "Mekanism.jar",
+            "hash": "1d5b531b7c107d6946b3e957f4554e2cb7686320",
+            "url": "https://edge.forgecdn.net/files/2835/175/Mekanism-1.12.2-9.8.3.390.jar"
+        },
+        {
+            "name": "Mekanism Generators.jar",
+            "hash": "6980bbbc9d18c5dea7e2242fe9d542da2d41c481",
+            "url": "https://edge.forgecdn.net/files/2835/177/MekanismGenerators-1.12.2-9.8.3.390.jar"
+        },
+        {
+            "name": "Mekanism Tools.jar",
+            "hash": "8c32f71f2db7a695abc8413aa7dfe8c28c485585",
+            "url": "https://edge.forgecdn.net/files/2835/178/MekanismTools-1.12.2-9.8.3.390.jar"
         }
     ],
     "miscFiles": [
