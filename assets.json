@@ -1077,6 +1077,12 @@
             "url": "https://raw.githubusercontent.com/VoidIncOfficial/files/main/custom_disc.cfg"
         },
         {
+            "name": "ExtraBotany Configuration",
+            "path": "config/extrabotany.cfg",
+            "hash": "326116417be480e633fbc2d044b45376d5a8a7fa",
+            "url": "https://raw.githubusercontent.com/VoidIncOfficial/files/main/extrabotany.cfg"
+        },
+        {
             "name": "Server Data",
             "path": "servers.dat",
             "hash": "c583518a5c300c321369f2ae778246e88f83808d",
