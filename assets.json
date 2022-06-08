@@ -1061,6 +1061,16 @@
             "name": "Mekanism Tools.jar",
             "hash": "8c32f71f2db7a695abc8413aa7dfe8c28c485585",
             "url": "https://edge.forgecdn.net/files/2835/178/MekanismTools-1.12.2-9.8.3.390.jar"
+        },
+        {
+            "name": "Optifine.jar",
+            "hash": "ca3aea3a09ce215906c346fe190907fe0347b0c4",
+            "url": "https://cdn.discordapp.com/attachments/984146417364897882/984150538985832559/OptiFine_1.12.2_HD_U_G5.jar"
+        },
+        {
+            "name": "Better FPS.jar",
+            "hash": "245235d5c67daff00ee658ee1f88ae8c3e4584b8",
+            "url": "https://edge.forgecdn.net/files/2483/393/BetterFps-1.4.8.jar"
         }
     ],
     "miscFiles": [
