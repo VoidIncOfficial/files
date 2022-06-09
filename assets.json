@@ -1071,6 +1071,11 @@
             "name": "Better FPS.jar",
             "hash": "245235d5c67daff00ee658ee1f88ae8c3e4584b8",
             "url": "https://edge.forgecdn.net/files/2483/393/BetterFps-1.4.8.jar"
+        },
+        {
+            "name": "JourneyMap.jar",
+            "hash": "3da4323f71bcadcf140002a9f49578f0cd5ce8a8",
+            "url": "https://edge.forgecdn.net/files/2916/2/journeymap-1.12.2-5.7.1.jar"
         }
     ],
     "miscFiles": [
