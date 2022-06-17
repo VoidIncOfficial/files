@@ -1076,6 +1076,31 @@
             "name": "JourneyMap.jar",
             "hash": "3da4323f71bcadcf140002a9f49578f0cd5ce8a8",
             "url": "https://edge.forgecdn.net/files/2916/2/journeymap-1.12.2-5.7.1.jar"
+        },
+        {
+            "name": "LittleFrames.jar",
+            "hash": "e4ea846843dc0f4bfd843514d9fb2a28a29f208c",
+            "url": "https://edge.forgecdn.net/files/3522/790/LittleFrames_v1.0.12_mc1.12.2.jar"
+        },
+        {
+            "name": "LittleTiles.jar",
+            "hash": "9ed4f84c38bbcbfea846e84a3f4262c9b5809242",
+            "url": "https://edge.forgecdn.net/files/3781/3/LittleTiles_v1.5.58_mc1.12.2.jar"
+        },
+        {
+            "name": "CreativeCore.jar",
+            "hash": "0f1b93d986e81ce228acdf9bea25caa1bae25dc4",
+            "url": "https://edge.forgecdn.net/files/3626/833/CreativeCore_v1.10.70_mc1.12.2.jar"
+        },
+        {
+            "name": "Тимофей, прости, меня заставили.jar",
+            "hash": "7b60729ab6e144803160c955fcb1e6d695a1aba6",
+            "url": "https://edge.forgecdn.net/files/3143/349/Avaritia-1.12.2-3.3.0.37-universal.jar"
+        },
+        {
+            "name": "CodeChickenLib.jar",
+            "hash": "b6a7e3b889c354216059a3bfad298e30a1e46a2d",
+            "url": "https://edge.forgecdn.net/files/2779/848/CodeChickenLib-1.12.2-3.2.3.358-universal.jar"
         }
     ],
     "miscFiles": [
