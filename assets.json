@@ -1101,6 +1101,11 @@
             "name": "CodeChickenLib.jar",
             "hash": "b6a7e3b889c354216059a3bfad298e30a1e46a2d",
             "url": "https://edge.forgecdn.net/files/2779/848/CodeChickenLib-1.12.2-3.2.3.358-universal.jar"
+        },
+        {
+            "name": "WebDisplays.jar",
+            "hash": "861b7f8cec2368fba8624cca9d926da63c9ffd65",
+            "url": "https://cdn.discordapp.com/attachments/817497032490745859/988525339300990996/Web-Displays-Mod-1.12.2.jar"
         }
     ],
     "miscFiles": [
