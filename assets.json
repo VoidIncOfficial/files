@@ -1048,21 +1048,6 @@
             "url": "https://edge.forgecdn.net/files/3757/344/ElectroblobsWizardry-4.3.7-MC1.12.2.jar"
         },
         {
-            "name": "Mekanism.jar",
-            "hash": "1d5b531b7c107d6946b3e957f4554e2cb7686320",
-            "url": "https://edge.forgecdn.net/files/2835/175/Mekanism-1.12.2-9.8.3.390.jar"
-        },
-        {
-            "name": "Mekanism Generators.jar",
-            "hash": "6980bbbc9d18c5dea7e2242fe9d542da2d41c481",
-            "url": "https://edge.forgecdn.net/files/2835/177/MekanismGenerators-1.12.2-9.8.3.390.jar"
-        },
-        {
-            "name": "Mekanism Tools.jar",
-            "hash": "8c32f71f2db7a695abc8413aa7dfe8c28c485585",
-            "url": "https://edge.forgecdn.net/files/2835/178/MekanismTools-1.12.2-9.8.3.390.jar"
-        },
-        {
             "name": "Optifine.jar",
             "hash": "ca3aea3a09ce215906c346fe190907fe0347b0c4",
             "url": "https://cdn.discordapp.com/attachments/984146417364897882/984150538985832559/OptiFine_1.12.2_HD_U_G5.jar"
@@ -1091,11 +1076,6 @@
             "name": "CreativeCore.jar",
             "hash": "0f1b93d986e81ce228acdf9bea25caa1bae25dc4",
             "url": "https://edge.forgecdn.net/files/3626/833/CreativeCore_v1.10.70_mc1.12.2.jar"
-        },
-        {
-            "name": "Тимофей, прости, меня заставили.jar",
-            "hash": "7b60729ab6e144803160c955fcb1e6d695a1aba6",
-            "url": "https://edge.forgecdn.net/files/3143/349/Avaritia-1.12.2-3.3.0.37-universal.jar"
         },
         {
             "name": "CodeChickenLib.jar",
