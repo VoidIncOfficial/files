@@ -1113,6 +1113,11 @@
             "url": "https://edge.forgecdn.net/files/2920/433/CoFHCore-1.12.2-4.6.6.1-universal.jar"
         },
         {
+            "name": "CoFH World.jar",
+            "hash": "863e1524fe0087d434a5e44d27cc2dd0353b9399",
+            "url": "https://edge.forgecdn.net/files/2920/434/CoFHWorld-1.12.2-1.4.0.1-universal.jar"
+        },
+        {
             "name": "Thermal Foundation.jar",
             "hash": "6bd93897638fd68794cae17c9520b68a85fc97d0",
             "url": "https://edge.forgecdn.net/files/2926/428/ThermalFoundation-1.12.2-2.6.7.1-universal.jar"
