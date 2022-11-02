@@ -1102,6 +1102,26 @@
             "name": "CodeChickenLib.jar",
             "hash": "b6a7e3b889c354216059a3bfad298e30a1e46a2d",
             "url": "https://edge.forgecdn.net/files/2779/848/CodeChickenLib-1.12.2-3.2.3.358-universal.jar"
+        },
+        {
+            "name": "Thermal Expansion.jar",
+            "hash": "3568d977c90987c58ad2c7cb3837c4ac8de49216",
+            "url": "https://edge.forgecdn.net/files/2926/431/ThermalExpansion-1.12.2-5.5.7.1-universal.jar"
+        },
+        {
+            "name": "CoFH Core.jar",
+            "hash": "4dd5aa3ff30d7966ae253556f79bb3f13bc5576e",
+            "url": "https://edge.forgecdn.net/files/2920/433/CoFHCore-1.12.2-4.6.6.1-universal.jar"
+        },
+        {
+            "name": "Thermal Foundation.jar",
+            "hash": "6bd93897638fd68794cae17c9520b68a85fc97d0",
+            "url": "https://edge.forgecdn.net/files/2926/428/ThermalFoundation-1.12.2-2.6.7.1-universal.jar"
+        },
+        {
+            "name": "Thermal Dynamics.jar",
+            "hash": "691d7fafc4e104e41b878d8e1ce885785c995840",
+            "url": "https://edge.forgecdn.net/files/2920/505/ThermalDynamics-1.12.2-2.5.6.1-universal.jar"
         }
     ],
     "miscFiles": [
