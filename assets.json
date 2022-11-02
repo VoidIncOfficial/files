@@ -1126,6 +1126,11 @@
             "name": "Thermal Dynamics.jar",
             "hash": "691d7fafc4e104e41b878d8e1ce885785c995840",
             "url": "https://edge.forgecdn.net/files/2920/505/ThermalDynamics-1.12.2-2.5.6.1-universal.jar"
+        },
+        {
+            "name": "Redstone Flux.jar",
+            "hash": "7835c1dcc006e5d4a406a6b0615012b825e25044",
+            "url": "https://edge.forgecdn.net/files/2920/436/RedstoneFlux-1.12-2.1.1.1-universal.jar"
         }
     ],
     "miscFiles": [
