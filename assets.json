@@ -1131,6 +1131,16 @@
             "name": "Redstone Flux.jar",
             "hash": "7835c1dcc006e5d4a406a6b0615012b825e25044",
             "url": "https://edge.forgecdn.net/files/2920/436/RedstoneFlux-1.12-2.1.1.1-universal.jar"
+        },
+        {
+            "name": "Draconic Evolution.jar",
+            "hash": "aa952832b369ff12a26ef608ee7a001b687ca226",
+            "url": "https://edge.forgecdn.net/files/3431/261/Draconic-Evolution-1.12.2-2.3.28.354-universal.jar"
+        },
+        {
+            "name": "Brandons Core.jar",
+            "hash": "f6035eb93d9c7b91334ed7bfc17ed36c8c9d86c8",
+            "url": "https://edge.forgecdn.net/files/3408/276/BrandonsCore-1.12.2-2.4.20.162-universal.jar"
         }
     ],
     "miscFiles": [
