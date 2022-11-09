@@ -1141,6 +1141,21 @@
             "name": "Brandons Core.jar",
             "hash": "f6035eb93d9c7b91334ed7bfc17ed36c8c9d86c8",
             "url": "https://edge.forgecdn.net/files/3408/276/BrandonsCore-1.12.2-2.4.20.162-universal.jar"
+        },
+        {
+            "name": "Psi.jar",
+            "hash": "c76503880249a7e92f99d0ef68637076c6844218",
+            "url": "https://edge.forgecdn.net/files/3085/917/Psi-r1.1-78.2.jar"
+        },
+        {
+            "name": "AutoRegLib.jar",
+            "hash": "267269ca7f1a71fb3bb35bdb8e61702a4da6263e",
+            "url": "https://edge.forgecdn.net/files/2746/11/AutoRegLib-1.3-32.jar"
+        },
+        {
+            "name": "TechGuns.jar",
+            "hash": "65a5cc41422bc665ec4b7d5e115efc7d95b002d7",
+            "url": "https://edge.forgecdn.net/files/2958/103/techguns-1.12.2-2.0.2.0_pre3.2.jar"
         }
     ],
     "miscFiles": [
