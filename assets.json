@@ -1187,12 +1187,6 @@
             "path": "servers.dat",
             "hash": "c583518a5c300c321369f2ae778246e88f83808d",
             "url": "https://raw.githubusercontent.com/VoidIncOfficial/files/main/servers.dat"
-        },
-        {
-            "name": "Voice Chat Settings",
-            "path": "config/gliby_vc/ServerSettings.ini",
-            "hash": "3a1ecc920637fbebbf4599dc8f7cb8645714e3e8",
-            "url": "https://raw.githubusercontent.com/VoidIncOfficial/files/main/voice-chat-settings.ini"
         }
     ],
     "logging": {},
