@@ -1190,7 +1190,7 @@
         },
         {
             "name": "Voice Chat Settings",
-            "path": "config/gilby_vc/ServerSettings.ini",
+            "path": "config/gliby_vc/ServerSettings.ini",
             "hash": "3a1ecc920637fbebbf4599dc8f7cb8645714e3e8",
             "url": "https://raw.githubusercontent.com/VoidIncOfficial/files/main/voice-chat-settings.ini"
         }
