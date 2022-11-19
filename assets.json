@@ -1156,11 +1156,6 @@
             "name": "TechGuns.jar",
             "hash": "65a5cc41422bc665ec4b7d5e115efc7d95b002d7",
             "url": "https://edge.forgecdn.net/files/2958/103/techguns-1.12.2-2.0.2.0_pre3.2.jar"
-        },
-        {
-            "name": "VoiceChatReloaded.jar",
-            "hash": "b58189e1030ab7231e0984988a552f25a2280dc0",
-            "url": "https://edge.forgecdn.net/files/3222/659/Voice Chat Reloaded-1.2.5.jar"
         }
     ],
     "miscFiles": [
