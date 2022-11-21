@@ -1166,11 +1166,6 @@
             "name": "Millenaire.jar",
             "hash": "5bf335f7ddfc9a22392400dc6ee626cda05fe3b5",
             "url": "https://edge.forgecdn.net/files/3887/515/millenaire-8.1.2.jar"
-        },
-        {
-            "name": "SRParasites.jar",
-            "hash": "be7577c663272a2013b876846a3eaf561e933a0e",
-            "url": "https://cdn.discordapp.com/attachments/951601226389278790/1043538721875709952/SRParasites-1.12.2v1.9.5.jar"
         }
     ],
     "miscFiles": [
