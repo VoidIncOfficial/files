@@ -1166,6 +1166,11 @@
             "name": "Millenaire.jar",
             "hash": "5bf335f7ddfc9a22392400dc6ee626cda05fe3b5",
             "url": "https://edge.forgecdn.net/files/3887/515/millenaire-8.1.2.jar"
+        },
+        {
+            "name": "ImmersiveEngineering.jar",
+            "hash": "633070d9c447fdaf6a9ead59425017815c890c63",
+            "url": "https://edge.forgecdn.net/files/2974/106/ImmersiveEngineering-0.12-98.jar"
         }
     ],
     "miscFiles": [
