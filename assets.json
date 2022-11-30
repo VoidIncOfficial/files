@@ -1171,7 +1171,12 @@
             "name": "VoiceChatReloaded.jar",
             "hash": "b58189e1030ab7231e0984988a552f25a2280dc0",
             "url": "https://edge.forgecdn.net/files/3222/659/Voice Chat Reloaded-1.2.5.jar"
-        }
+        },
+        {
+            "name": "MystCraft.jar",
+            "hash": "a810dd2881a74187fb0ac9093899b5e14fd8d2fc",
+            "url": "https://edge.forgecdn.net/files/2958/490/mystcraft-1.12.2-0.13.7.06.jar"
+        },
     ],
     "miscFiles": [
         {
