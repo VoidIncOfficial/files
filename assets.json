@@ -1177,6 +1177,11 @@
             "hash": "a810dd2881a74187fb0ac9093899b5e14fd8d2fc",
             "url": "https://edge.forgecdn.net/files/2958/490/mystcraft-1.12.2-0.13.7.06.jar"
         },
+        {
+            "name": "Draconic Additions.jar",
+            "hash": "6e4209f20bf109314477368864ce687f1a75d0dd",
+            "url": "https://edge.forgecdn.net/files/3514/704/Draconic-Additions-1.12.2-1.17.0.45-universal.jar"
+        }
     ],
     "miscFiles": [
         {
