@@ -1207,6 +1207,12 @@
             "path": "servers.dat",
             "hash": "c583518a5c300c321369f2ae778246e88f83808d",
             "url": "https://raw.githubusercontent.com/VoidIncOfficial/files/main/servers.dat"
+        },
+        {
+            "name": "Custom Discs",
+            "path": "resourcepacks/customdisc.zip",
+            "hash": "8088adfdbc46aba816b1225586ac0c99d96cfa96",
+            "url": "https://github.com/VoidIncOfficial/files/raw/main/customdisc.zip"
         }
     ],
     "logging": {},
