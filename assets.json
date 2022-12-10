@@ -1186,6 +1186,16 @@
             "name": "Immersive Petroleum.jar",
             "hash": "cb9365f335ee7f50262eca1dfb703dab64ab9d10",
             "url": "https://edge.forgecdn.net/files/2544/919/immersivepetroleum-1.12.2-1.1.9.jar"
+        },
+        {
+            "name": "Albedo.jar",
+            "hash": "49c52948dd67279722518e8084a14a80efd02e76",
+            "url": "https://edge.forgecdn.net/files/2714/505/albedo-1.12.2-1.1.0.jar"
+        },
+        {
+            "name": "Immersive Energy.jar",
+            "hash": "29ecb1f941e3147ab6094efdeedd7b31fe5b06eb",
+            "url": "https://edge.forgecdn.net/files/3256/506/Immersive Energy-1.12.2-0.5.5.jar"
         }
     ],
     "miscFiles": [
