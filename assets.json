@@ -1176,6 +1176,16 @@
             "name": "Draconic Additions.jar",
             "hash": "6e4209f20bf109314477368864ce687f1a75d0dd",
             "url": "https://edge.forgecdn.net/files/3514/704/Draconic-Additions-1.12.2-1.17.0.45-universal.jar"
+        },
+        {
+            "name": "Immersive Intelligence.jar",
+            "hash": "8ef7fb130e6be51203f75d71c10237b69fcf41bd",
+            "url": "https://edge.forgecdn.net/files/3586/937/immersiveintelligence-0.2.1.jar"
+        },
+        {
+            "name": "Immersive Petroleum.jar",
+            "hash": "cb9365f335ee7f50262eca1dfb703dab64ab9d10",
+            "url": "https://edge.forgecdn.net/files/2544/919/immersivepetroleum-1.12.2-1.1.9.jar"
         }
     ],
     "miscFiles": [
