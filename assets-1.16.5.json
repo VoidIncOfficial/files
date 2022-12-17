@@ -1418,13 +1418,24 @@
             ]
         },
         {
+            "name": "net.minecraftforge:forge:1.16.5-36.2.39-universal",
+            "downloads": {
+                "artifact": {
+                    "path": "net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-universal.jar",
+                    "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-universal.jar",
+                    "sha1": "807540b167214a81684716fa0d6e92566ae14a04",
+                    "size": 2504067
+                }
+            }
+        },
+        {
             "name": "net.minecraftforge:forge:1.16.5-36.2.39",
             "downloads": {
                 "artifact": {
                     "path": "net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39.jar",
-                    "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-universal.jar",
-                    "sha1": "807540b167214a81684716fa0d6e92566ae14a04",
-                    "size": 2504067
+                    "url": "https://cdn.discordapp.com/attachments/817497032490745859/1053750082463346878/forge-1.16.5-36.2.39.jar",
+                    "sha1": "0094f0546dba2d5bcee90e6a0a4f98d3adb40baf",
+                    "size": 212574
                 }
             }
         },
@@ -1714,7 +1725,7 @@
         }
     ],
     "logging": {},
-    "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --versionType Forge --launchTarget fmlclient --fml.forgeVersion 36.2.39 --fml.mcVersion 1.16.5 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20210115.111550 --tweakClass net.minecraftforge.fml.common.launcher.FMLTweaker",
+    "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --versionType Forge --launchTarget fmlclient --fml.forgeVersion 36.2.39 --fml.mcVersion 1.16.5 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20210115.111550",
     "mainClass": "cpw.mods.modlauncher.Launcher",
     "minimumLauncherVersion": 21,
     "releaseTime": "2021-01-14T16:05:32+00:00",
