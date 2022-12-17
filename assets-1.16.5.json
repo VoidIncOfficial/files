@@ -1692,13 +1692,13 @@
         },
         {
             "name": "Minecraft 1.16.5 Forge Client Extras",
-            "path": "logging/config.xml",
+            "path": "libraries/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar",
             "hash": "863021e04b49f99063bc4f9a24cb1352b5487383",
             "url": "https://cdn.discordapp.com/attachments/817497032490745859/1053783220107354112/client-1.16.5-20210115.111550-extra.jar"
         },
         {
             "name": "Minecraft 1.16.5 Forge Client Slim",
-            "path": "logging/config.xml",
+            "path": "libraries/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-slim.jar",
             "hash": "863021e04b49f99063bc4f9a24cb1352b5487383",
             "url": "https://cdn.discordapp.com/attachments/817497032490745859/1053783220430307418/client-1.16.5-20210115.111550-slim.jar"
         },
