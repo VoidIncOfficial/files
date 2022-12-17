@@ -1418,6 +1418,17 @@
             ]
         },
         {
+            "name": "net.minecraftforge:forge:1.16.5-36.2.39-client",
+            "downloads": {
+                "artifact": {
+                    "path": "net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-client.jar",
+                    "url": "https://cdn.discordapp.com/attachments/817497032490745859/1053775189944569956/forge-1.16.5-36.2.39-client.jar",
+                    "sha1": "07678ff3edd6990a75bf0707ad2dbb2315b8000f",
+                    "size": 4216473
+                }
+            }
+        },
+        {
             "name": "net.minecraftforge:forge:1.16.5-36.2.39-universal",
             "downloads": {
                 "artifact": {
