@@ -1705,7 +1705,14 @@
         }
     ],
     "mods": [],
-    "miscFiles": [],
+    "miscFiles": [
+        {
+            "name": "Minecraft 1.16.5 Logging Config",
+            "path": "logging/config.xml",
+            "hash": "863021e04b49f99063bc4f9a24cb1352b5487383",
+            "url": "https://launcher.mojang.com/v1/objects/bd65e7d2e3c237be76cfbef4c2405033d7f91521/client-1.12.xml"
+        }
+    ],
     "logging": {},
     "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --versionType Forge --launchTarget fmlclient --fml.forgeVersion 36.2.39 --fml.mcVersion 1.16.5 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20210115.111550",
     "mainClass": "cpw.mods.modlauncher.Launcher",
