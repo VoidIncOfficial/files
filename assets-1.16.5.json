@@ -1693,14 +1693,20 @@
         {
             "name": "Minecraft 1.16.5 Forge Client Extras",
             "path": "libraries/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar",
-            "hash": "863021e04b49f99063bc4f9a24cb1352b5487383",
+            "hash": "4aef4168f94d97bc73bf510213b2518942f931d1",
             "url": "https://cdn.discordapp.com/attachments/817497032490745859/1053783220107354112/client-1.16.5-20210115.111550-extra.jar"
         },
         {
             "name": "Minecraft 1.16.5 Forge Client Slim",
             "path": "libraries/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-slim.jar",
-            "hash": "863021e04b49f99063bc4f9a24cb1352b5487383",
+            "hash": "045d6edac8fe1b004e159c49704b5b729f551079",
             "url": "https://cdn.discordapp.com/attachments/817497032490745859/1053783220430307418/client-1.16.5-20210115.111550-slim.jar"
+        },
+        {
+            "name": "Minecraft 1.16.5 Forge Client SRG",
+            "path": "libraries/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar",
+            "hash": "b943fcfb733ce604c7d594c40eed8a1b740c3d2d",
+            "url": "https://cdn.discordapp.com/attachments/817497032490745859/1053785494284161135/client-1.16.5-20210115.111550-srg.jar"
         },
         {
             "name": "Forge 1.16.5 Client (Slim)",
