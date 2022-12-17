@@ -1396,28 +1396,6 @@
             ]
         },
         {
-            "name": "net.minecraftforge:forge:1.16.5-36.2.39-client",
-            "downloads": {
-                "artifact": {
-                    "path": "net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-client.jar",
-                    "url": "https://cdn.discordapp.com/attachments/817497032490745859/1053775189944569956/forge-1.16.5-36.2.39-client.jar",
-                    "sha1": "07678ff3edd6990a75bf0707ad2dbb2315b8000f",
-                    "size": 4216473
-                }
-            }
-        },
-        {
-            "name": "net.minecraftforge:forge:1.16.5-36.2.39-universal",
-            "downloads": {
-                "artifact": {
-                    "path": "net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-universal.jar",
-                    "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-universal.jar",
-                    "sha1": "807540b167214a81684716fa0d6e92566ae14a04",
-                    "size": 2504067
-                }
-            }
-        },
-        {
             "name": "net.minecraftforge:forge:1.16.5-36.2.39",
             "downloads": {
                 "artifact": {
@@ -1711,6 +1689,30 @@
             "path": "logging/config.xml",
             "hash": "863021e04b49f99063bc4f9a24cb1352b5487383",
             "url": "https://launcher.mojang.com/v1/objects/bd65e7d2e3c237be76cfbef4c2405033d7f91521/client-1.12.xml"
+        },
+        {
+            "name": "Minecraft 1.16.5 Forge Client Extras",
+            "path": "logging/config.xml",
+            "hash": "863021e04b49f99063bc4f9a24cb1352b5487383",
+            "url": "https://cdn.discordapp.com/attachments/817497032490745859/1053783220107354112/client-1.16.5-20210115.111550-extra.jar"
+        },
+        {
+            "name": "Minecraft 1.16.5 Forge Client Slim",
+            "path": "logging/config.xml",
+            "hash": "863021e04b49f99063bc4f9a24cb1352b5487383",
+            "url": "https://cdn.discordapp.com/attachments/817497032490745859/1053783220430307418/client-1.16.5-20210115.111550-slim.jar"
+        },
+        {
+            "name": "Forge 1.16.5 Client (Slim)",
+            "path": "libraries/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-client.jar",
+            "hash": "07678ff3edd6990a75bf0707ad2dbb2315b8000f",
+            "url": "https://cdn.discordapp.com/attachments/817497032490745859/1053775189944569956/forge-1.16.5-36.2.39-client.jar"
+        },
+        {
+            "name": "Forge 1.16.5 Universal (Slim)",
+            "path": "libraries/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-universal.jar",
+            "sha1": "807540b167214a81684716fa0d6e92566ae14a04",
+            "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-universal.jar"
         }
     ],
     "logging": {},
