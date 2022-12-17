@@ -1714,7 +1714,7 @@
         }
     ],
     "logging": {},
-    "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --versionType Forge --launchTarget fmlclient --fml.forgeVersion 36.2.39 --fml.mcVersion 1.16.5 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20210115.111550",
+    "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --versionType Forge --launchTarget fmlclient --fml.forgeVersion 36.2.39 --fml.mcVersion 1.16.5 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20210115.111550 --tweakClass net.minecraftforge.fml.common.launcher.FMLTweaker",
     "mainClass": "cpw.mods.modlauncher.Launcher",
     "minimumLauncherVersion": 21,
     "releaseTime": "2021-01-14T16:05:32+00:00",
