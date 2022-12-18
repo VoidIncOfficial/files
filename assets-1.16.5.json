@@ -1682,7 +1682,303 @@
             }
         }
     ],
-    "mods": [],
+    "mods": [
+        {
+            "name": "Just Enough Resources.jar",
+            "hash": "cc0289c9b19a0971ba302d854ae409755a0a28fe",
+            "url": "https://edge.forgecdn.net/files/4060/770/jei-1.16.5-7.7.1.153.jar"
+        },
+        {
+            "name": "JourneyMap.jar",
+            "hash": "5245221653a0113713a7261898b49f71b779b6c8",
+            "url": "https://edge.forgecdn.net/files/4012/858/journeymap-1.16.5-5.8.5p6.jar"
+        },
+        {
+            "name": "Twilight Forest.jar",
+            "hash": "25dea11b15da9f1417b9d7a6dde6b46b136a9a41",
+            "url": "https://edge.forgecdn.net/files/3575/220/twilightforest-1.16.5-4.0.870-universal.jar"
+        },
+        {
+            "name": "Tinkerer's Construct.jar",
+            "hash": "bfccf8cb255bc64101c0ae27cac7f3b386b88078",
+            "url": "https://edge.forgecdn.net/files/3695/126/TConstruct-1.16.5-3.3.4.335.jar"
+        },
+        {
+            "name": "JustEnoughResources.jar",
+            "hash": "1cad5026cf4c14b5fd3b6b01eb96cc4ff12c0c2a",
+            "url": "https://edge.forgecdn.net/files/3545/538/JustEnoughResources-1.16.5-0.12.1.133.jar"
+        },
+        {
+            "name": "Applied Energistics 2.jar",
+            "hash": "094025e39c8334556c069f8c21b19b4a54966b13",
+            "url": " https://edge.forgecdn.net/files/3608/871/appliedenergistics2-8.4.7.jar"
+        },
+        {
+            "name": "Immersive Engineering.jar",
+            "hash": "3264b5e3047575faa32d9a32f70c0d0c8039ad37",
+            "url": "https://edge.forgecdn.net/files/3809/596/ImmersiveEngineering-1.16.5-5.1.0-148.jar"
+        },
+        {
+            "name": "Mekanism.jar",
+            "hash": "e7ec62394e8ac4b254c4e7cc57360903d7c35980",
+            "url": "https://edge.forgecdn.net/files/3659/389/Mekanism-1.16.5-10.1.2.457.jar"
+        },
+        {
+            "name": "Create.jar",
+            "hash": "5b32b0310d037deed14200e3b748bd02d46d9471",
+            "url": "https://edge.forgecdn.net/files/3536/25/create-mc1.16.5_v0.3.2g.jar"
+        },
+        {
+            "name": "Thermal Foundation.jar",
+            "hash": "9cfdbd34a21cdd0eae6be454caf622a8e469c21e",
+            "url": "https://edge.forgecdn.net/files/4022/666/thermal_foundation-1.16.5-1.5.2.30.jar"
+        },
+        {
+            "name": "Thermal Locomotion.jar",
+            "hash": "c2f0b9bef4680ca444ffc362be5484d4656ef46a",
+            "url": "https://edge.forgecdn.net/files/3788/895/thermal_locomotion-1.16.5-1.5.0.4.jar"
+        },
+        {
+            "name": "Thermal Innovation.jar",
+            "hash": "ec6a6081c455efbd4bfcb12f37b08e8f487edaf9",
+            "url": "https://edge.forgecdn.net/files/3788/896/thermal_innovation-1.16.5-1.5.0.4.jar"
+        },
+        {
+            "name": "Thermal Expansion.jar",
+            "hash": "26e6dcc772b7c64b9cb01813278fde957488e628",
+            "url": "https://edge.forgecdn.net/files/4063/134/thermal_expansion-1.16.5-1.5.2.16.jar"
+        },
+        {
+            "name": "Thermal Cultivation.jar",
+            "hash": "b3cb2313b7bfe05474052ab01507f2910bc69aa3",
+            "url": "https://edge.forgecdn.net/files/3788/891/thermal_cultivation-1.16.5-1.5.0.4.jar"
+        },
+        {
+            "name": "Mekanism Generators.jar",
+            "hash": "a53c4834324dc8066ac300b1bf3bddb326692518",
+            "url": "https://edge.forgecdn.net/files/3659/391/MekanismGenerators-1.16.5-10.1.2.457.jar"
+        },
+        {
+            "name": "Botania.jar",
+            "hash": "561b20994937a19e800a96ee0c5708eaa0e46e7c",
+            "url": "https://edge.forgecdn.net/files/4066/54/Botania-1.16.5-420.3.jar"
+        },
+        {
+            "name": "Mekanism Tools.jar",
+            "hash": "4c55b475ea737e191f42ce5dd6ce2a3a03691fa5",
+            "url": "https://edge.forgecdn.net/files/3659/392/MekanismTools-1.16.5-10.1.2.457.jar"
+        },
+        {
+            "name": "BloodMagic.jar",
+            "hash": "1a5689d41c2668a627b114ff55bab6ae329e609e",
+            "url": "https://edge.forgecdn.net/files/3870/899/BloodMagic-1.16.4-3.1.13-39.jar"
+        },
+        {
+            "name": "Apotheosis.jar",
+            "hash": "4a2b86d99ae982f89c4070d00e6755fb7efaf122",
+            "url": "https://edge.forgecdn.net/files/3936/649/Apotheosis-1.16.5-4.8.9A0.jar"
+        },
+        {
+            "name": "Draconic Evolution.jar",
+            "hash": "f82e44f658e838dd40e4bd4af7f18764d1587873",
+            "url": "https://edge.forgecdn.net/files/4095/179/Draconic-Evolution-1.16.5-3.0.28.500-universal.jar"
+        },
+        {
+            "name": "Astral Sorcery.jar",
+            "hash": "3fb4261287576bbb72fdc0ff1fd88864c4e72fa2",
+            "url": "https://edge.forgecdn.net/files/3813/365/astralsorcery-1.16.5-1.14.1.jar"
+        },
+        {
+            "name": "Mahou Tsukai.jar",
+            "hash": "9bd1d60a95c354d46a6ce396964924368440e598",
+            "url": "https://edge.forgecdn.net/files/4166/562/mahoutsukai-1.16.5-v1.34.36.jar"
+        },
+        {
+            "name": "Forestry.jar",
+            "hash": "b2042909127af06cdddc4d4aa02ff5249dbd538c",
+            "url": "https://edge.forgecdn.net/files/3861/29/forestry-1.16.5-6.0.14.jar"
+        },
+        {
+            "name": "ImmersivePetroleum.jar",
+            "hash": "941fd04214cd475cb2216cdba24027018f7d5b63",
+            "url": "https://edge.forgecdn.net/files/3912/339/ImmersivePetroleum-1.16.5-3.4.0-13.jar"
+        },
+        {
+            "name": "MythicBotany.jar",
+            "hash": "c5ff68550ec5d5bf11abdaf2c88d1e51eec8c44c",
+            "url": "https://edge.forgecdn.net/files/3565/162/MythicBotany-1.16.5-1.4.19.jar"
+        },
+        {
+            "name": "Alchemistry.jar",
+            "hash": "dcdcceff75f1f6961620311b228034f90c126d87",
+            "url": "https://edge.forgecdn.net/files/3293/463/alchemistry-1.16.5-1.jar"
+        },
+        {
+            "name": "Construct's Armory.jar",
+            "hash": "b5c416af6d2b0611baf2c356c48fc05e5ab91432",
+            "url": "https://edge.forgecdn.net/files/3861/380/constructsarmory-forge-2.0.0-alpha.2+1.16.5.jar"
+        },
+        {
+            "name": "Bewitchment.jar",
+            "hash": "8fe848e94184bfaa82226a0a297801764e7a53ff",
+            "url": "https://edge.forgecdn.net/files/3403/216/bewitchment-1.16.5-18.jar"
+        },
+        {
+            "name": "CustomNPCs.jar",
+            "hash": "868c476be34bac92bc4f98d864a8d62c3792817d",
+            "url": "https://edge.forgecdn.net/files/3791/72/CustomNPCs-1.16.5.20220515.jar"
+        },
+        {
+            "name": "Chisel.jar",
+            "hash": "495ac2e30c068c3d458e318a8322aa3309637ff3",
+            "url": "https://edge.forgecdn.net/files/3376/782/Chisel-MC1.16.5-2.0.1-alpha.4.jar"
+        },
+        {
+            "name": "Occultism.jar",
+            "hash": "18d929aac94fd3180a43d9dd4111caebcf8ce02d",
+            "url": "https://edge.forgecdn.net/files/3861/416/occultism-1.16.5-1.29.1.jar"
+        },
+        {
+            "name": "ExtraBotany.jar",
+            "hash": "7d8a65c2785199fb45008db58ad0497f900c0241",
+            "url": "https://edge.forgecdn.net/files/3926/35/ExtraBotany-r1.2-69.jar"
+        },
+        {
+            "name": "Industrial Reborn.jar",
+            "hash": "69f4f19c3138010bdc1101d8ee953ae2edae0fe2",
+            "url": "https://edge.forgecdn.net/files/3076/845/Industrial-Reborn-1.16.3-0.9.1.jar"
+        },
+        {
+            "name": "ARS.jar",
+            "hash": "1847b896855573159ab1b3d24754db37c3e98342",
+            "url": "https://edge.forgecdn.net/files/4087/794/ars_nouveau-1.16.5-1.25.9.jar"
+        },
+        {
+            "name": "CraftTweaker.jar",
+            "hash": "2e8b7b21dafbc48c2af9aba18580b6852183bfb6",
+            "url": "https://edge.forgecdn.net/files/4014/407/CraftTweaker-1.16.5-7.1.2.515.jar"
+        },
+        {
+            "name": "JEITweaker.jar",
+            "hash": "366436f84d5b3ea3f0037b9fdb7f5f6dbf7abd44",
+            "url": "https://edge.forgecdn.net/files/3584/24/JEITweaker-1.16.5-1.1.0.49.jar"
+        },
+        {
+            "name": "Waila Harvestability.jar",
+            "hash": "cc3a5be124089e8566f1012e3ce26f9f430da27f",
+            "url": "https://edge.forgecdn.net/files/3289/488/WailaHarvestability-mc1.16.x-forge-1.1.15.jar"
+        },
+        {
+            "name": "TerraForged.jar",
+            "hash": "d52862f9f9d6106c281eb718de2c47d7ab3abcc0",
+            "url": "https://cdn.discordapp.com/attachments/817497032490745859/1053823360364195880/TerraForged-1.16.5-0.2.16.jar"
+        },
+        {
+            "name": "LazyDFU.jar",
+            "hash": "3ce32ac0a8656f9ba27bfb4623358a51516f80ed",
+            "url": "https://edge.forgecdn.net/files/3249/59/lazydfu-0.1.3.jar"
+        },
+        {
+            "name": "Minecolonies.jar",
+            "hash": "b8910bac145573bccf2448497a4021ef5dc6fced",
+            "url": "https://edge.forgecdn.net/files/3949/19/minecolonies-1.16.5-1.0.978-RELEASE.jar"
+        },
+        {
+            "name": "Futurepack.jar",
+            "hash": "4cc9b68fe967de2524998e0bb189af087bac0367",
+            "url": "https://edge.forgecdn.net/files/4019/689/Futurepack-1.16.5-31.3.7008.jar"
+        },
+        {
+            "name": "Optifine.jar",
+            "hash": "137363842c5bfdebb72356a4079faeef3157eb3c",
+            "url": "https://cdn.discordapp.com/attachments/817497032490745859/1053800713664340060/OptiFine_1.16.5_HD_U_G8.jar"
+        },
+        {
+            "name": "Simple Voice Chat.jar",
+            "hash": "e4144a85372de3bf698a8c16fbc935a0b2cafbc4",
+            "url": "https://edge.forgecdn.net/files/4162/382/voicechat-forge-1.16.5-2.3.23.jar"
+        },
+        {
+            "name": "Patchouli.jar",
+            "hash": "cf7c2efc013a0247be4c2ce3f3d6a553643e00f7",
+            "url": "https://edge.forgecdn.net/files/3847/29/Patchouli-1.16.4-53.3.jar"
+        },
+        {
+            "name": "Structurize.jar",
+            "hash": "15e49e336b102c5aaaaa69cd43b75d955371211f",
+            "url": "https://edge.forgecdn.net/files/3894/957/structurize-1.16.5-1.0.418-ALPHA.jar"
+        },
+        {
+            "name": "Placebo.jar",
+            "hash": "2c616fccc1888f90ddf60d947aa97c94481a33d7",
+            "url": "https://edge.forgecdn.net/files/3750/838/Placebo-1.16.5-4.7.0.jar"
+        },
+        {
+            "name": "CoFH Core.jar",
+            "hash": "908b2a7c1f3f151c1c03c664cfca5fd51bd108d8",
+            "url": "https://edge.forgecdn.net/files/4022/663/cofh_core-1.16.5-1.5.2.22.jar"
+        },
+        {
+            "name": "Curios.jar",
+            "hash": "25df638beedfd5a339eaeeea15a93d3708dc4116",
+            "url": "https://edge.forgecdn.net/files/3725/386/curios-forge-1.16.5-4.0.8.2.jar"
+        },
+        {
+            "name": "Mantle.jar",
+            "hash": "61cd1d256a29445d153bd076e090f6172eff2aff",
+            "url": "https://edge.forgecdn.net/files/3631/982/Mantle-1.16.5-1.6.157.jar"
+        },
+        {
+            "name": "CodeChickenLib.jar",
+            "hash": "8e9f473dfb4bf74fab88bc8a0b7eb7a1d365cef4",
+            "url": "https://edge.forgecdn.net/files/3681/973/CodeChickenLib-1.16.5-4.0.7.445-universal.jar"
+        },
+        {
+            "name": "GeckoLib.jar",
+            "hash": "14940646d175f8704d8e06d96258b12fd645e67d",
+            "url": "https://edge.forgecdn.net/files/4182/600/geckolib-forge-1.16.5-3.0.106.jar"
+        },
+        {
+            "name": "LibX.jar",
+            "hash": "605081e4b3a4e19ead61c2fb9f9d4d9935c2ca87",
+            "url": "https://edge.forgecdn.net/files/3329/216/LibX-1.16.3-1.0.76.jar"
+        },
+        {
+            "name": "Brandon's Core.jar",
+            "hash": "5b394b059d98736394cfa602c8e5bcb8c9fb58fe",
+            "url": "https://edge.forgecdn.net/files/3831/424/BrandonsCore-1.16.5-3.0.15.248-universal.jar"
+        },
+        {
+            "name": "FlyWheel.jar",
+            "hash": "30dbb119ce3d455bee065c0bef04a00827b3a5b3",
+            "url": "https://edge.forgecdn.net/files/3535/459/flywheel-1.16-0.2.5.jar"
+        },
+        {
+            "name": "ObserverLib.jar",
+            "hash": "a5136bf50a6dba827ceb0e80cd1118bcba193a27",
+            "url": "https://edge.forgecdn.net/files/3333/962/observerlib-1.16.5-1.5.3.jar"
+        },
+        {
+            "name": "AlchemyLib.jar",
+            "hash": "cbc555b1760cae33eb6449dfdb82cdaba65be44c",
+            "url": "https://edge.forgecdn.net/files/3166/674/alib-1.16.4-1.jar"
+        },
+        {
+            "name": "ChemLib.jar",
+            "hash": "15d041cf3517bb99b3f115304ffc300832466244",
+            "url": "https://edge.forgecdn.net/files/3704/96/chemlib-1.16.5-2.jar"
+        },
+        {
+            "name": "Hwyla.jar",
+            "hash": "79123ef4c447affe57e77ee241d78c494bd8948d",
+            "url": "https://edge.forgecdn.net/files/3033/593/Hwyla-forge-1.10.11-B78_1.16.2.jar"
+        },
+        {
+            "name": "CTM.jar",
+            "hash": "c097e077974a2c84c4309edfe91d76f6bdc90d4c",
+            "url": "https://edge.forgecdn.net/files/3137/659/CTM-MC1.16.1-1.1.2.6.jar"
+        }
+    ],
     "miscFiles": [
         {
             "name": "Minecraft 1.16.5 Logging Config",
