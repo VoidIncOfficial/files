@@ -1967,6 +1967,11 @@
             "name": "CTM.jar",
             "hash": "c097e077974a2c84c4309edfe91d76f6bdc90d4c",
             "url": "https://edge.forgecdn.net/files/3137/659/CTM-MC1.16.1-1.1.2.6.jar"
+        },
+        {
+            "name": "SimpleLogin.jar",
+            "hash": "684cc2750cff2f3ce82e5a7ef821220ada643dfb",
+            "url": "https://edge.forgecdn.net/files/3373/709/SimpleLogin-1.16-1.1.1.jar"
         }
     ],
     "miscFiles": [
