@@ -1819,11 +1819,6 @@
             "url": "https://edge.forgecdn.net/files/3861/380/constructsarmory-forge-2.0.0-alpha.2+1.16.5.jar"
         },
         {
-            "name": "Bewitchment.jar",
-            "hash": "8fe848e94184bfaa82226a0a297801764e7a53ff",
-            "url": "https://edge.forgecdn.net/files/3403/216/bewitchment-1.16.5-18.jar"
-        },
-        {
             "name": "CustomNPCs.jar",
             "hash": "868c476be34bac92bc4f98d864a8d62c3792817d",
             "url": "https://edge.forgecdn.net/files/3791/72/CustomNPCs-1.16.5.20220515.jar"
