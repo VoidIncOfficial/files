@@ -1972,11 +1972,6 @@
             "name": "SimpleLogin.jar",
             "hash": "684cc2750cff2f3ce82e5a7ef821220ada643dfb",
             "url": "https://edge.forgecdn.net/files/3373/709/SimpleLogin-1.16-1.1.1.jar"
-        },
-        {
-            "name": "Ma Essentials.jar",
-            "hash": "f5e6a1852ba739c6c6090c637f66736626e06a0b",
-            "url": "https://edge.forgecdn.net/files/3561/235/Ma-Essentials-1.16.5-3.5.0.jar"
         }
     ],
     "miscFiles": [
