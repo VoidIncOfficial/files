@@ -1942,6 +1942,21 @@
             "name": "Forestry.jar",
             "hash": "b2042909127af06cdddc4d4aa02ff5249dbd538c",
             "url": "https://edge.forgecdn.net/files/3861/29/forestry-1.16.5-6.0.14.jar"
+        },
+        {
+            "name": "End:Reborn.jar",
+            "hash": "49cab1769cf7af43bf72be9502dc590a20a7ec65",
+            "url": "https://edge.forgecdn.net/files/3297/491/EndReborn [0.8.4].jar"
+        }, 
+        {
+            "name": "Alex's Mobs.jar",
+            "hash": "87411ae04536cc1a9cb731df12462ad58b39de51",
+            "url": "https://edge.forgecdn.net/files/3467/280/alexsmobs-1.12.1.jar"
+        },
+        {
+            "name": "Citadel.jar",
+            "hash": "923af3f1c526232a5f7ec090968b461c4ddf12e5",
+            "url": "https://edge.forgecdn.net/files/3441/28/citadel-1.8.1-1.16.5.jar"
         }
     ],
     "miscFiles": [
