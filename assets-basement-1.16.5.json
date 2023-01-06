@@ -1937,6 +1937,11 @@
             "name": "SimpleLogin.jar",
             "hash": "684cc2750cff2f3ce82e5a7ef821220ada643dfb",
             "url": "https://edge.forgecdn.net/files/3373/709/SimpleLogin-1.16-1.1.1.jar"
+        },
+        {
+            "name": "Forestry.jar",
+            "hash": "b2042909127af06cdddc4d4aa02ff5249dbd538c",
+            "url": "https://edge.forgecdn.net/files/3861/29/forestry-1.16.5-6.0.14.jar"
         }
     ],
     "miscFiles": [
