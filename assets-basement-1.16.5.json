@@ -1995,6 +1995,12 @@
             "path": "libraries/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-universal.jar",
             "sha1": "807540b167214a81684716fa0d6e92566ae14a04",
             "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-universal.jar"
+        },
+        {
+            "name": "Server List",
+            "path": "servers.dat",
+            "sha1": "cf6f0602bbb2b4ccb781e2fca03a5db888fb9333",
+            "url": "https://github.com/VoidIncOfficial/files/raw/main/servers.dat"
         }
     ],
     "logging": {},
